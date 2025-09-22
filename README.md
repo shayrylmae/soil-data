@@ -4,14 +4,13 @@ An interactive soil monitoring dashboard with AI-powered analysis. Features inte
 
 ## Features
 
-- 🎛️ **Interactive Dial Controls** - Touch/mouse-friendly dials for precise sensor data adjustment
-- 📊 **Comprehensive Monitoring** - Track soil moisture, fertility (EC), pH, temperature, humidity, and sunlight
-- 🌡️ **Dual Temperature Display** - Shows both Celsius and Fahrenheit readings
-- 🤖 **AI-Powered Analysis** - Get expert soil recommendations using Google Gemini AI
-- 💬 **Conversational Interface** - Chat with AI for follow-up questions and detailed guidance
-- 📱 **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
-- ⚡ **Built with Next.js 15** - Modern React framework with TypeScript support
-- 🚀 **Vercel Deployment Ready** - Easy cloud deployment
+- **Interactive Dial Controls** - Touch/mouse-friendly dials for precise sensor data adjustment
+- **Comprehensive Monitoring** - Track soil moisture, fertility (EC), pH, temperature, humidity, and sunlight
+- **Dual Temperature Display** - Shows both Celsius and Fahrenheit readings
+- **AI-Powered Analysis** - Get expert soil recommendations using Google Gemini AI
+- **Conversational Interface** - Chat with AI for follow-up questions and detailed guidance
+- **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
+- **Built with Next.js 15** - Modern React framework with TypeScript support
 
 ## Setup Instructions
 
