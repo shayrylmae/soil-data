@@ -1,4 +1,5 @@
 # Soil Health AI
+<img width="1352" height="769" alt="Screen Shot 2025-09-27 at 2 53 32 PM" src="https://github.com/user-attachments/assets/118f125b-5a01-4e4f-9924-7287456d9241" />
 
 An interactive soil monitoring dashboard with AI-powered analysis. Features interactive dial controls for real-time sensor data adjustment and intelligent recommendations powered by Google's Gemini AI to optimize plant growth conditions.
 
